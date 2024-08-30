@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["G1Point","HotShotCommitment","LightClientState","PlonkProof","VerifyingKey"]};
